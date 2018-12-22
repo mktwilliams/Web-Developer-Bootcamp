@@ -1,8 +1,8 @@
+
 <h1> Register </h1>
 
-<div>
-  
 <form>
+<div>
   <label>
     First Name:
     <input name="firstName" type="text" placeholder="John" >
@@ -120,3 +120,4 @@
       <button>Submit</button>
 
 </form>
+
