@@ -4,8 +4,10 @@ h1{
 
 h4{
   color:pink;
+  background:black;
 }
 
 li{
+  background:black;
   color:orange;  
 }
